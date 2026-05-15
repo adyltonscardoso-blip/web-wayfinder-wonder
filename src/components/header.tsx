@@ -52,7 +52,7 @@ export function Header() {
           {/* CTA Button */}
           <div className="hidden md:flex items-center gap-4">
             <a
-              href="https://wa.me/5598985040155"
+              href="https://pay.hest.com.br/480a3e77-da2e-42ac-bd6a-76143c945e61"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-2.5 bg-primary text-primary-foreground text-sm font-medium rounded-lg hover:bg-primary/90 transition-all duration-200"
@@ -86,7 +86,7 @@ export function Header() {
                 </a>
               ))}
               <a
-                href="https://wa.me/5598985040155"
+                href="https://pay.hest.com.br/480a3e77-da2e-42ac-bd6a-76143c945e61"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-4 px-6 py-3 bg-primary text-primary-foreground text-sm font-medium rounded-lg text-center"
