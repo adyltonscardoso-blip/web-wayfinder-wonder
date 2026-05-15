@@ -14,11 +14,11 @@ export function HeroSection() {
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 text-center">
         {/* Hero Banner Image */}
-        <div className="mb-8">
-          <img 
-            src="/images/hero-banner.png" 
-            alt="MUSA SELECT Academy - Treinamento de Marketing Digital" 
-            className="w-full max-w-4xl mx-auto rounded-2xl shadow-2xl shadow-primary/10"
+        <div className="mb-8 -mx-4 sm:-mx-6 lg:-mx-8">
+          <img
+            src="/images/hero-banner.png"
+            alt="MUSA SELECT Academy - Treinamento de Marketing Digital"
+            className="w-screen max-w-none relative left-1/2 -translate-x-1/2 shadow-2xl shadow-primary/10"
           />
         </div>
 
