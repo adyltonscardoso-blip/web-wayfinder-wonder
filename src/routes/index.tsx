@@ -3,6 +3,7 @@ import { Header } from "@/components/header";
 import { HeroSection } from "@/components/hero-section";
 import { AboutSection } from "@/components/about-section";
 import { DifferentialsSection } from "@/components/differentials-section";
+import { VideoSection } from "@/components/video-section";
 import { BenefitsSection } from "@/components/benefits-section";
 import { TargetAudienceSection } from "@/components/target-audience-section";
 import { TestimonialsSection } from "@/components/testimonials-section";
@@ -55,6 +56,7 @@ function Home() {
       <Header />
       <HeroSection />
       <AboutSection />
+      <VideoSection />
       <DifferentialsSection />
       <BenefitsSection />
       <TargetAudienceSection />
