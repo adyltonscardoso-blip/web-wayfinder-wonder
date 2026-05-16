@@ -31,7 +31,7 @@ export function HeroSection() {
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
-            href="https://wa.me/5598985040155?text=Ol%C3%A1!%20Quero%20come%C3%A7ar%20o%20treinamento%20da%20MUSA%20SELECT%20ACADEMY"
+            href="https://pay.hest.com.br/480a3e77-da2e-42ac-bd6a-76143c945e61"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-2 px-8 py-4 bg-primary text-primary-foreground font-semibold rounded-lg hover:bg-primary/90 transition-all duration-300 animate-pulse-gold"
